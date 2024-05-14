@@ -14,4 +14,25 @@
   </a>
 </div>
 <!--added visitors count-->
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=developertijanke&style=flat-square&color=blue" alt="visitors"/>
+</div>
+<!--intro text 1-->
+<h1 align ="center">
+  Hello, 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### About Me :man_technologist: 
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
