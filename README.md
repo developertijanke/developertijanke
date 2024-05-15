@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
----
+
 
 ### About Me :man_technologist: 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -53,3 +53,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developertijanke%20&theme=ambient-gradient)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developertijanke&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
