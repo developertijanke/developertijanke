@@ -35,7 +35,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/-ijan-blue?style=flat&logo=Whatsapp&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Whatsapp Badge](https://img.shields.io/badge/-Tijan-blue?style=flat&logo=Whatsapp&logoColor=white)](your-linkedin-url)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
